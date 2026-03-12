@@ -54,6 +54,8 @@ function sayHello() {
 //             jokeDisplay.textContent = joke;
 //     });
 // });
+
+// general layout created by Copilot, with modifications by me to fit with assignment
 function myLineUp() {
 // radio – only the checked one has a value
     const statusEl = document.querySelector('input[name="status"]:checked');
